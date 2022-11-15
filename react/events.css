@@ -1,0 +1,96 @@
+/* .rightContainer {
+  margin-left: auto;
+} */
+
+/* .card.sideRight {
+  /* justify-self: end; */
+
+.divSideLeft {
+  max-width: 60% !important;
+  margin-right: 5%;
+  min-height: 860px;
+  width: 60% !important;
+  height: 1250px;
+}
+
+div.divSideLeftMap {
+  max-width: 60% !important;
+  margin-right: 5%;
+  min-height: 860px;
+  width: 60% !important;
+  height: 1250px;
+  border-radius: 3%;
+}
+
+h5.card-header.sideLeft {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+h5.card-title.sideLeft {
+  font-weight: bolder;
+}
+
+.sideLeft {
+  font-weight: 550;
+}
+@media (min-width: 1600px) {
+  .eventContainer {
+    width: 1700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+div.divSideLeft {
+  background-color: silver;
+  font-size: larger;
+}
+
+div.divSideRight {
+  background-color: silver;
+  font-size: large;
+}
+.divSideLeftMap {
+  height: 882px;
+  width: 778px !important;
+  overflow: visible;
+  margin-right: 5%;
+}
+div.rightContainer {
+  width: 40%;
+  justify-content: end;
+  margin-left: 5%;
+}
+
+.divSideRight {
+  width: 100%;
+  margin-left: 0%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.modal-content {
+  width: 650px !important;
+}
+
+.card-img-top.sideLeft {
+  max-height: 30% !important;
+  object-fit: cover;
+  border-radius: 1%;
+  border: 3px solid silver;
+  margin-top: 1%;
+}
+
+.pac-container {
+  background-color: rgba(248, 246, 246, 0.641);
+  z-index: 20;
+  position: fixed;
+  display: inline-block;
+}
+.modal {
+  z-index: 20;
+  background-color: rgba(240, 248, 255, 0.409);
+}
+.modal-backdrop {
+  z-index: 10;
+}
